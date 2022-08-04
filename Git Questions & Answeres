@@ -1,0 +1,46 @@
+### Git Interview Question & Answere
+-------------------------------------
+
+Q.) What is Git & why do we use it ?
+A.)
+
+Q.) Difference b/w Git vs Github/Gitlab ?
+
+Q.) What is branch & how do we create & checkout it?
+
+Q.) How to delete a branch & how can we retrive it back?
+
+Q.) What is git branching stretegy ?
+
+Q.) How can we remove a file & retrive it back from local system as well as remote repo?
+
+Q.) What is staging area & how to add file in that ?
+
+Q.) What is commit & how to use it ?
+
+Q.) How can we change the commit message ?
+
+Q.) How to push a file ?
+
+Q>) what is Pull Request OR Merge Request ?
+
+Q.) What are the global config commands ?
+
+Q.) git fetch VS git pull VS git fork ?
+
+Q.) git clone VS git init ?
+
+Q.) git merge VS git rebase ?
+
+Q.) git stach VS git Squash ?
+
+Q.) What is Cheery picking & why & how do we use it ?
+
+Q.) What is Git conflict & how can we resolve it ?
+
+Q.) Git revert VS Git reset ?
+
+Q.) what is Git Tag ?
+
+Q.)
+
