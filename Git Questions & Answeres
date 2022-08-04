@@ -2,7 +2,7 @@
 -------------------------------------
 
 Q.) What is Git & why do we use it ?
-A.)
+A.) Git is a distributed version contorl (SCM), where you can store the file & access it from anywhere, anytime.
 
 Q.) Difference b/w Git vs Github/Gitlab ?
 
@@ -42,5 +42,5 @@ Q.) Git revert VS Git reset ?
 
 Q.) what is Git Tag ?
 
-Q.)
+Q.) How to generate Git SSH token ?
 
