@@ -21,14 +21,19 @@ Q.) What is commit & how to use it ?
 Q.) How can we change the commit message ?
 
 Q.) How to push a file ?
+A.) git push origin <branch name>
 
-Q>) what is Pull Request OR Merge Request ?
+Q.) what is Pull Request OR Merge Request ?
 
 Q.) What are the global config commands ?
 
 Q.) git fetch VS git pull VS git fork ?
 
 Q.) git clone VS git init ?
+
+Q.) git diff VS gis status ?
+A.) git diff:- It shows what actual change have been made in a file.
+    git status :- it shows which file has been modified.
 
 Q.) git merge VS git rebase ?
 
